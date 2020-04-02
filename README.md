@@ -1,0 +1,2 @@
+# CMakeTest
+learning CMake
